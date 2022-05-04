@@ -22,6 +22,8 @@ E_a is activation energy (kJ/mol)
 R is universal gas constant (kJ/mol * K)
 T is temperature (K)
 
+The "Dup" csv file includes the integer reaction designation; the other csv file does not, and this is the one used.
+
 x           NIST Designation          T-range             A         n       Ea       
 N2 Data:  1986THI/ROT1102-1105	   3390 - 6440 K 	9.86E-05  -3.33    940  
 O2 Data:  1961CAM/VAU460-470	   3400 - 7500 K      4.97E-07  -1.00    494  
